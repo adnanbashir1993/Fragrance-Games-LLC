@@ -302,6 +302,7 @@ zetaglobal.net, 815, RESELLER
 zmaticoo.com, 5135063, RESELLER
 zmaticoo.com, 5135195, RESELLER
 zmaticoo.com, 5135704, RESELLER
+
 OwnerDomain=cas.ai
 cas.ai, 922e6092, DIRECT
 google.com, pub-1022958838828668, DIRECT, f08c47fec0942fa0
@@ -5634,5 +5635,3 @@ eskimi.com, 2020001230, RESELLER
 gitberry.com, 816100181, RESELLER
 pubeasy.io, 110779, RESELLER
 tubia.com, 40122, RESELLER
-cas.ai
-CAS.AI
